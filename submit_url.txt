@@ -57,10 +57,10 @@ https://lptexas.top/frps-dashboard/index.html
 https://lptexas.top/images/index.html
 https://lptexas.top/links/index.html
 https://lptexas.top/movies/index.html
-https://lptexas.top/resume/index.html
-https://lptexas.top/server-android/index.html
 https://lptexas.top/music/index.html
+https://lptexas.top/resume/index.html
 https://lptexas.top/schedule/index.html
+https://lptexas.top/server-android/index.html
 https://lptexas.top/server-minecraft-manager/index.html
 https://lptexas.top/tags/index.html
 https://lptexas.top/website/index.html

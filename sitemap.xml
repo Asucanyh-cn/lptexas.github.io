@@ -4,7 +4,7 @@
   <url>
     <loc>https://lptexas.top/posts/1745776001/</loc>
     
-    <lastmod>2024-10-07</lastmod>
+    <lastmod>2025-01-13</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -533,24 +533,6 @@
   </url>
   
   <url>
-    <loc>https://lptexas.top/resume/index.html</loc>
-    
-    <lastmod>2024-02-18</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://lptexas.top/server-android/index.html</loc>
-    
-    <lastmod>2024-02-18</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://lptexas.top/music/index.html</loc>
     
     <lastmod>2024-02-18</lastmod>
@@ -560,7 +542,25 @@
   </url>
   
   <url>
+    <loc>https://lptexas.top/resume/index.html</loc>
+    
+    <lastmod>2024-02-18</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://lptexas.top/schedule/index.html</loc>
+    
+    <lastmod>2024-02-18</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://lptexas.top/server-android/index.html</loc>
     
     <lastmod>2024-02-18</lastmod>
     
